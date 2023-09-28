@@ -1,5 +1,1 @@
-# HUSTHOLE_Release
-## 树洞版本更新贴
-[下载最新版本](https://github.com/Mai-hh/HUSTHOLE_Release/releases)
-> 下载.apk后缀文件自行安装
-> QQ群：2156443104 也会同步更新版本
+[最新版本搬运](https://github.com/GoDown2TheHell/HUSTHOLE_ANDROID/releases/download/v2.4.11.1/v2.4.11.apk)
